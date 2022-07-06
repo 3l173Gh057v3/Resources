@@ -1,2 +1,2 @@
 # Resources
-All modules/slides will be upload here
+All modules/slides by EGv3 will be upload here
